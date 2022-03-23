@@ -42,6 +42,6 @@ display: flex; gap: 1rem;
 	
 ## ➤ Contact me
 
+[![Twitter Badge](https://img.shields.io/badge/-@hongjia52033996-555555?style=flat-square&labelColor=555555&logo=twitter&logoColor=white&link=https://twitter.com/p_vcent)](https://twitter.com/p_vcent)
 [![Gmail Badge](https://img.shields.io/badge/-yxy840634619@gmail.com-555555?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yxy840634619@gmail.com)](mailto:yxy840634619@gmail.com)
-  
 
