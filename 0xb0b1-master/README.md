@@ -8,11 +8,11 @@
 
 ## ➤ About me 
 
-  🖋 - I'm learning JavaScript, React, TypeScript, Node and things related to Front End.
-  ⚡ - Eager to become a qualified programmer.
-  🥋 - Even though I'm not strong enough,appreciate me with a star for my program if you find them interesting. 
-  🏃 - Wellcom to follow me and I will follow you for reply. 
-  🍻 - Sinserely hope I was helpful to you!
+  🖋 - I'm learning JavaScript, React, TypeScript, Node and things related to Front End.  
+  ⚡ - Eager to become a qualified programmer.  
+  🥋 - Even though I'm not strong enough,appreciate me with a star for my program if you find them interesting.   
+  🏃 - Wellcom to follow me and I will follow you for reply.   
+  🍻 - Sinserely hope I was helpful to you!  
 
  
 ## ➤ Front End
