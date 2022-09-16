@@ -4,7 +4,7 @@
   
 ## ➤  👋Hellow and this is JIAJUN YEE
 
-  ✍️ - A university student from UESTC,and studying Front-End,eager to find job.
+  ✍️ - A university student from UESTC,studying Front-End.
 
 ## ➤ About me 
 
